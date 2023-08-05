@@ -1,2 +1,2 @@
-# Car_evaluation
-Car evaluation with decision tree random
+# Car Evaluation
+Machine learning model  with decision tree random
